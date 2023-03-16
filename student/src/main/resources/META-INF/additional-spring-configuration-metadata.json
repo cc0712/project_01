@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.devtools.restart.enabled",
+      "type": "java.lang.String",
+      "description": "Description for spring.devtools.restart.enabled."
+    },
+    {
+      "name": "spring.thymeleaf.mode.encoding",
+      "type": "java.lang.String",
+      "description": "Description for spring.thymeleaf.mode.encoding."
+    }
+  ] }
